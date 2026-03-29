@@ -1,0 +1,22 @@
+{
+    "version": "0.14.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/codested/chagg/releases/download/0.14.2/chagg-windows-amd64.zip",
+            "bin": [
+                "chagg.exe"
+            ],
+            "hash": "8a6ae521e62d3b42fce39a59e5f7912a772928b67a9ee75089c1ba8bbf411d72"
+        },
+        "arm64": {
+            "url": "https://github.com/codested/chagg/releases/download/0.14.2/chagg-windows-arm64.zip",
+            "bin": [
+                "chagg.exe"
+            ],
+            "hash": "f88cd31141289cd94197123cf22e04dd47effa9f1fbc32562daae2221c971b2c"
+        }
+    },
+    "homepage": "https://chagg.dev",
+    "license": "MIT",
+    "description": "A modern release-note workflow tool"
+}
