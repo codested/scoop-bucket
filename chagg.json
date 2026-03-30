@@ -1,19 +1,19 @@
 {
-    "version": "0.14.4",
+    "version": "0.14.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/codested/chagg/releases/download/0.14.4/chagg-windows-amd64.zip",
+            "url": "https://github.com/codested/chagg/releases/download/0.14.5/chagg-windows-amd64.zip",
             "bin": [
                 "chagg.exe"
             ],
-            "hash": "2a955550466dc34f812077e286717efb1f1a57c46c8323dd810d07a9630b8937"
+            "hash": "8c914e84bb318c0065cc535bbf4da800cedbbfe75ea376e3c273c7101cd933b2"
         },
         "arm64": {
-            "url": "https://github.com/codested/chagg/releases/download/0.14.4/chagg-windows-arm64.zip",
+            "url": "https://github.com/codested/chagg/releases/download/0.14.5/chagg-windows-arm64.zip",
             "bin": [
                 "chagg.exe"
             ],
-            "hash": "9a580274dcc0c09d9f08890a17b6f019f4fc61fba71e392d75d7dc6b265ccc38"
+            "hash": "5abb8d2c33b85dd95772957f5ebccda66fbb917718132e20f3f9d2d9d3a54cc2"
         }
     },
     "homepage": "https://chagg.dev",
